@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menús</string>
+    <string name="opc_1">Opción 1</string>
+    <string name="opc_2">Opción 2</string>
+    <string name="opc_3">Opción 3</string>
+    <string name="opc_4">Opción 4</string>
+    <string name="subopc2_2">Subopción B</string>
+    <string name="subop2_1">Subopción A</string>
+    <string name="ctx1">Opción 1</string>
+    <string name="ctx2">Opción 2</string>
+    <string name="ctx3">Opción 3</string>
+    <string name="img1">Opción A</string>
+    <string name="img2">Opción B</string>
+    <string name="img3">Opción C</string>
+</resources>
